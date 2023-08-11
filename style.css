@@ -13,3 +13,23 @@ header{
 main{
     background-color: white;
 }
+footer{
+    display:flex;
+}
+.social-container{
+    display:flex;
+}
+.icon-facebook{
+background: url(./assets/facebook.png) no-repeat top left;
+background-size:32px;
+}
+.icon-youtube{
+background: url(./assets/youtube.png)no-repeat top left;
+background-size:32px;
+}
+.icon-accebility{
+    display:flex;
+    width:32px;
+    height: 32px;
+    background-position:0 0
+}
